@@ -4,3 +4,6 @@
 ```
 console.log("ciao";
 ```
+
+- [x] js exercises
+- [ ] Bug fix in production
